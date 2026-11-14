@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Vault Literature Retrieval"
+  short_description: "Find papers through Obsidian notes and verify sources in Zotero"
+  default_prompt: "Use $research-vault-literature-retrieval to search indexs/文献索引.md and notes/ in the active Obsidian project, then verify exact claims against Zotero full text or PDF when needed."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Obsidian Workflow"
+  short_description: "Sync Zotero collections into Obsidian notes and indexes"
+  default_prompt: "Use $zotero-obsidian-workflow to compare a specified Zotero collection with the Obsidian literature index, generate or complete one note per paper from templates/paper-template.md, and rebuild indexs/文献索引.md."

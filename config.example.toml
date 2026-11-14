@@ -1,0 +1,3 @@
+# Global configuration for Zotero data. The active Obsidian project supplies the Vault root.
+[paths]
+zotero_data_dir = "C:/Users/your-name/Zotero"

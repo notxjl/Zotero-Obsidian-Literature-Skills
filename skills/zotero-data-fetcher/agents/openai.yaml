@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Data Fetcher"
+  short_description: "Read Zotero collections and items without modifying data"
+  default_prompt: "Use $zotero-data-fetcher to resolve the specified Zotero collection or item read-only, then return verified metadata, annotations, notes, attachment paths, and available full-text sources."
